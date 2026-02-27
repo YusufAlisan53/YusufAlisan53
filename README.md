@@ -1,12 +1,10 @@
-<h1 align="center">Selam, Ben Yusuf Talha! 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Selam%2C+Ben+Yusuf+Talha!+👋;Bilgisayar+Mühendisliği+Öğrencisi;Minimalist+Developer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://github.com/senin-github-kullanici-adin">
-    <img src="https://komarev.com/ghpvc/?username=senin-github-kullanici-adin&label=Profil+Ziyaretçileri&color=0e75b6&style=flat-square" alt="Ziyaretçi Sayacı" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=yusuf-talha-alisan&label=Profil+Ziyaretçileri&color=0e75b6&style=flat-square" alt="Ziyaretçi Sayacı" />
 </p>
-
-<h3 align="center">Temiz Arayüzler ve Yaratıcı Fikirler 🚀</h3>
 
 ---
 
@@ -18,15 +16,12 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Kod yazarken karmaşadan uz
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+### 🛠️ Yeteneklerim & Araçlar
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,c,java,git,vscode,figma&theme=light" />
+  </a>
 </p>
 
 ---
@@ -34,21 +29,21 @@ Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Kod yazarken karmaşadan uz
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senin-github-kullanici-adin&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="Yusuf Talha GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senin-github-kullanici-adin&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yusuf-talha-alisan&show_icons=true&theme=tokyonight&hide_border=false" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-talha-alisan&layout=compact&theme=tokyonight&hide_border=false" width="48%" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-talha-alisan&theme=tokyonight&hide_border=false" width="100%" alt="Streak Stats" />
 </p>
 
 ---
 
 ### 📫 Bana Ulaşın
 
-Projelerimi incelemek, kodlarımı kurcalamak veya sadece teknoloji, yazılım mimarileri ve kitaplar üzerine sohbet etmek istersen bana her zaman ulaşabilirsin:
-
-<p align="left">
-  <a href="mailto:y.alisan53@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/yusuf-talha-alisan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<p align="center">
+<a href="https://www.linkedin.com/in/yusuf-talha-alisan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-talha-alisan" height="30" width="40" /></a>
+<a href="mailto:y.alisan53@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="y.alisan53" height="30" width="40" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" width="100%"/>
