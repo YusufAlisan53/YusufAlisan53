@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/YusufAlisan53">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYusufAlisan53&count_bg=%233C2F2F&title_bg=%23F5EEDB&icon=&icon_color=%233C2F2F&title=Seyyahlar&edge_flat=true" alt="Ziyaretçi Sayacı" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=YusufAlisan53&label=Profile+Views&color=3C2F2F&style=for-the-badge" alt="Profile Views" />
 
 <br><br>
 
@@ -16,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="35" height="35" />
 </h1>
 
-<i><b>"Karmaşadan uzak, minimal ve temiz satırlar..."</b></i>
+<i><b>"Sürekli öğrenen ve üreten bir yazılım geliştirici..."</b></i>
 
 <br>
 
@@ -24,7 +22,7 @@
 
 ### 📜 Benim Hakkımda
 
-Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Kod yazarken karmaşadan uzak durmayı ve olabildiğince minimalist, temiz işler ortaya çıkarmayı seviyorum. Okul hayatımla beraber sürekli yeni fikirler deniyor, özellikle frontend tarafında göz yormayan, estetik arayüzler geliştirmeye odaklanıyorum.
+Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Okul hayatımla beraber sürekli yeni fikirler deniyor, özellikle frontend tarafında göz yormayan, estetik arayüzler geliştirmeye odaklanıyorum.
 
 Şu sıralar vaktimin çoğunu **"Kitap Kulübüm"** projesine ayırıyorum.  
 İnsanların birbirini ekleyip okudukları kitaplardan alıntılar paylaştığı bu dijital kütüphaneyi;  
@@ -32,8 +30,8 @@ eski parşömen temalı, sakin ve dinlendirici bir atmosferle örüyorum.
 
 <br>
 
-<!-- Yetenek İkonları (Öneri 8) -->
-### ✒️ Kalemim ve Araçlarım
+<!-- Yetenek İkonları -->
+### 💻 Teknolojiler ve Araçlar
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,10 +44,7 @@ eski parşömen temalı, sakin ve dinlendirici bir atmosferle örüyorum.
 <!-- Github İstatistikleri - Parşömen Renklerinde (Öneri 1, 9 & 10) -->
 ### 🕯️ Günlüklerim ve İstatistikler
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufAlisan53&show_icons=true&bg_color=F5EEDB&title_color=3C2F2F&text_color=4A3B32&icon_color=8E6B52&hide_border=true&border_radius=10" alt="Yusuf Talha GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAlisan53&layout=compact&bg_color=F5EEDB&title_color=3C2F2F&text_color=4A3B32&hide_border=true&border_radius=10" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YusufAlisan53&theme=transparent&background=F5EEDB&border=F5EEDB&stroke=4A3B32&ring=8E6B52&fire=8E6B52&currStreakNum=3C2F2F&sideNums=4A3B32&currStreakLabel=4A3B32&sideLabels=4A3B32&dates=4A3B32&hide_border=true&border_radius=10" alt="GitHub Streak" />
