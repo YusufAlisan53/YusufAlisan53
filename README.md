@@ -14,7 +14,6 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="35" height="35" />
 </h1>
 
-<i><b>"Sürekli öğrenen ve üreten bir yazılım geliştirici..."</b></i>
 
 <br>
 
@@ -56,11 +55,11 @@ eski parşömen temalı, sakin ve dinlendirici bir atmosferle örüyorum.
 
 ### 🕊️ Bana Ulaşın
 
-Projelerimi incelemek, kodlarımı kurcalamak veya sadece kitaplar üzerine sohbet etmek istersen; parşömenin bu ucundan bana her zaman yazabilirsin:
+Projelerimi incelemek, kodlarımı kurcalamak istersen; parşömenin bu ucundan bana her zaman yazabilirsin:
 
 <p align="center">
   <a href="mailto:y.alisan53@gmail.com">
-    <img src="https://img.shields.io/badge/Bana%20Yaz-F5EEDB?style=for-the-badge&logo=gmail&logoColor=3C2F2F&labelColor=3C2F2F" alt="Email" />
+    <img src="https://img.shields.io/badge/İletişime%20Geç-F5EEDB?style=for-the-badge&logo=gmail&logoColor=3C2F2F&labelColor=3C2F2F" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/yusuf-talha-alisan/">
     <img src="https://img.shields.io/badge/LinkedIn'den%20Ekle-F5EEDB?style=for-the-badge&logo=linkedin&logoColor=3C2F2F&labelColor=3C2F2F" alt="LinkedIn" />
