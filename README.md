@@ -72,11 +72,4 @@ Projelerimi incelemek, kodlarımı kurcalamak veya sadece kitaplar üzerine sohb
   </a>
 </p>
 
-
-<br>
-<p align="center">
-  <code>// "Kitap Kulübüm", bir gün dünyadaki tüm hikayeleri bir araya getirecek...</code><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing" width="30" />
-</p>
-
 </div>
